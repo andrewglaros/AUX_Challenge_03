@@ -45,7 +45,7 @@ body {
 }
 
 p {
-  font-size: 1.35em;
+  font-size: 1.25em;
   line-height: 1.55;
   margin: 0 0 1.5em 0;
   -webkit-hyphens: auto;
@@ -96,12 +96,13 @@ h1, h2, h3, h4, h5, h6 {
 }
   h1 {
     color: #444;
-    font-size: 3em;
-    margin: 0 0 .5em 0;
+    font-size: 4.236em;
+    margin: 0 0 .4em 0;
     line-height: 1.1em;
+    letter-spacing: -.045em;
   }
   h2 {
-    font-size: 1.5em;
+    font-size: 1.618em;
     font-weight: 400;
     color: #888;
     line-height: 1.3;
@@ -114,8 +115,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 blockquote {
-  font-size: 1.5em;
+  font-size: 1.618em;
   font-style: italic;
+  line-height: 1.25em;
   color: #AA1520;
 }
 
